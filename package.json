@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "build": "dotnet run -- -o public"
+    },
+    "dependencies": {
+      "dotnet-6.0": "^6.0",
+      "dotnet-sdk-6.0": "^6.0"
+    }
+  }
