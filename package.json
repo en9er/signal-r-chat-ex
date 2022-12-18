@@ -6,6 +6,6 @@
       "build": "dotnet run -- -o public"
     },
     "dependencies": {
-      "dotnet-sdk-6.0": "^6.0.12"
+      
     }
   }
